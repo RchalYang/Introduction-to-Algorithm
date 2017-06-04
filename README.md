@@ -1,6 +1,10 @@
 # Introduction-to-Algorithm
-homework for class Introduction to Algorithm at NKU
+homework for course Introduction to Algorithm at NKU
 
-#This is homework for the Course Introduction to Algorithm at NKU in 2017 spring semester
+These codes are for homework of the Course Introduction to Algorithm at NKU in 2017 spring semester
 
-please be free to use these code
+please feel free to use these code
+
+
+
+PS: do not copy these code for homework
